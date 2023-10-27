@@ -53,5 +53,6 @@ transition: all ,0.5s;
     font-size: 1.3rem;
 }
 .link_text{
-    font-size: 23px;
+    font-size: 1.1rem;
+    margin-top: .3rem;
 }
